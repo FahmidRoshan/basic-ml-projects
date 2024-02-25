@@ -30,4 +30,4 @@ In future iterations of this project, we plan to explore more advanced modeling 
 
 ## Contact Information
 
-For any questions or feedback, feel free to contact me at [your_email@example.com](mailto:your_email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your_username/).
+For any questions or feedback, feel free to contact me at [email](mailto:fahmidrosahn3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fr-68/).
