@@ -50,3 +50,10 @@ The project involves the following key activities:
 
 ## Data Access
 The dataset for this project can be accessed [here](data/raw/train.xlsx) and [here](data/raw/test.xlsx).
+
+## Future Work
+In future iterations of this project, it is planned to explore more advanced modeling techniques, such as neural networks, and conduct further analysis to improve prediction accuracy.
+
+## Contact Information
+For any questions or feedback, feel free to contact me at [email](mailto:fahmidrosahn3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fr-68/).
+
