@@ -9,7 +9,7 @@ The exploratory data analysis report performed on the raw data is available in `
 
 ## Modeling Approach
 
-We trained several machine learning models using scikit-learn, including logistic regression, random forest, and support vector machine (SVM). The models were trained on the preprocessed data, and their performance was evaluated using various evaluation metrics.
+The dataset is trained with several machine learning models using scikit-learn, including logistic regression, random forest, and support vector machine (SVM). The models were trained on the preprocessed data, and their performance was evaluated using various evaluation metrics.
 
 ## Instructions for Use
 
@@ -21,12 +21,11 @@ To reproduce the results:
 4. Run the notebooks or scripts to train the models and make predictions.
 
 ## Evaluation Metrics
-
-We used accuracy, precision, recall, and F1-score as evaluation metrics to assess the performance of the models. Detailed evaluation results can be found in the model evaluation notebook.
+Features like accuracy, precision, recall, and F1-score were used as evaluation metrics to assess the performance of the models. Detailed evaluation results can be found in the model evaluation notebook.
 
 ## Future Work
 
-In future iterations of this project, we plan to explore more advanced modeling techniques, such as neural networks, and conduct further analysis to improve prediction accuracy.
+In future iterations of this project, it is planned to explore more advanced modeling techniques, such as neural networks, and conduct further analysis to improve prediction accuracy.
 
 ## Contact Information
 
