@@ -54,6 +54,14 @@ The dataset for this project can be accessed [here](data/raw/train.xlsx) and [he
 ## Future Work
 In future iterations of this project, it is planned to explore more advanced modeling techniques, such as neural networks, and conduct further analysis to improve prediction accuracy.
 
+## Instructions for Use
+To reproduce the results:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Explore the notebooks in the `notebooks/` directory for data preprocessing, model training, and evaluation.
+4. Explore the Python scripts in the `pipeline/` directoryfor data preprocessing, model training, and model evaluation.
+5. Run the notebooks or scripts to train the models and make predictions.
+
 ## Contact Information
 For any questions or feedback, feel free to contact me at [email](mailto:fahmidrosahn3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fr-68/).
-
